@@ -1,0 +1,22 @@
+{
+  "name": "craw-moji",
+  "version": "0.0.1",
+  "description": "draw the git_moji, and transfer to image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "craw",
+    "gitmoji"
+  ],
+  "author": "ZQ-jhon",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "bin": {
+    "craw-moji": "index.js"
+  },
+  "devDependencies": {}
+}
