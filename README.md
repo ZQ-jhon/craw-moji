@@ -6,9 +6,11 @@
 
 ## Useage
 
-`$ git clone {this repository}`
-`$ npm install`
-`$ craw-moji`
+```
+$ git clone git@github.com:ZQ-jhon/craw-moji.git
+$ npm install
+$ npm start
+```
 
 ## TodoList
 

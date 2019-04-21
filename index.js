@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 const request = require('request');
 const fs = require('fs');
+// waiting publish this package...
+// const child_process = require('child_process');
+// child_process.exec('npm link');
 'use strict';
 const options = {
     url: 'https://api.github.com/emojis',
