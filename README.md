@@ -1,4 +1,4 @@
-[中文版]('./README-zh.md')
+[中文版](README-zh.md)
 
 ## This is a tool what can download all github moji with github open API
 
